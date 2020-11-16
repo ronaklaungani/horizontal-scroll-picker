@@ -1,3 +1,4 @@
+// Developed by Ronak Laungani while he was in lock down during the COVID-19 Pandemic. Imagine how bored he was. Show some love at http://www.ronaklaungani.com. Thanks!
 
 // Change these variable values to customize your scroller.
 
