@@ -1,6 +1,6 @@
 # horizontal-scroll-picker
 
-Feel free to download, share, credit. Check it out in action here: http://ronaklaungani.com/horizontal-scroll-picker/
+Feel free to download, share, credit. Check it out in action here: http://ronaklaungani.com/horizontal-scroll-number-picker/
 
 My main focus was to make sure the code is simple and yet highly customizable! With this code you can change the following things:
 
